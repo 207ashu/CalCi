@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalCi</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="num0">0</string>
+    <string name="num.">.</string>
+    <string name="ac">AC</string>
+    <string name="clear_button_image">Clear Button Image</string>
+    <string name="divide_button_image">Divide Button Image</string>
+    <string name="multiply_button_image">Multiply Button Image</string>
+    <string name="subtract_button_image">Subtract Button Image</string>
+    <string name="add_button_image">Add Button Image</string>
+    <string name="equal_button_image">Equal Button Image</string>
+
+
+</resources>
